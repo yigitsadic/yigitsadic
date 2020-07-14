@@ -11,7 +11,7 @@ I would like to know more about Golang, Docker & Kubernetes. 🤔
 
 ## Interests and Skills
 
-GraphQL, TypeScript, Nodejs, React, Ruby and Ruby on Rails, Redis, Microservices, Docker & Kubernetes
+GraphQL, TypeScript, Nodejs, React, Ruby and Ruby on Rails, Redis, Microservices, Docker & Kubernetes, Golang
 
 
 ## What do I want to learn & use 2020 and 2021 💭
