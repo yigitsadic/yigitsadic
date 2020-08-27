@@ -2,7 +2,7 @@ Hello 👋 this is Yigit and,
 
 I am interested in serverless functions and knative solutions. 🚀
 
-Currently, I am developing applications with Nodejs and Ruby on Rails. ❤️ 
+Currently, I am developing applications with Ruby on Rails, Nodejs and Golang. ❤️ 
 
 I like to work with Google Cloud Platform. ☁️
 
