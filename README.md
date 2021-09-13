@@ -1,10 +1,10 @@
-Hello 👋 this is Yigit and,
+Hello, this is Yigit 🖖
 
-I am interested in serverless functions and knative solutions. 🚀
+I’m a backend developer who’s always looking to learn and improve.
 
-Currently, I am developing applications with Ruby on Rails, Nodejs and Golang. ❤️ 
+With TypeScript I’m used to utilize and learn Golang, Ruby, Rail, Docker and Nodejs, and others like gRPC. When it comes to my personality, I am interested, open to learning new things about the tools and technology I use and willing to explore.
 
-I like to work with Google Cloud Platform. ☁️
+Playing with React and GraphQL helps me relax and unwind.
 
 I would like to know more about Golang, Docker & Kubernetes. 🤔
 
