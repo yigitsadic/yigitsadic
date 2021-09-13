@@ -24,11 +24,10 @@ GraphQL, TypeScript, Nodejs, React, Ruby and Ruby on Rails, Redis, Microservices
 
 ## What is my desired tech stack? 💪🎉🎈
 
-- Serverless functions as possible (I do love Cloud Functions)
 - Golang for performance and low-memory required services 🏋️
 - Nodejs for development speed and sweet packages 🍬
 - GraphQL for API Gateway
 - React for frontend
 - Kubernetes for infra and microservices management.
 - Redis for cache and high performance pub/sub
-- Postgres, Firestore and Mongo for database.
+- Postgres for database.
