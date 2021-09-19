@@ -30,4 +30,5 @@ GraphQL, TypeScript, Nodejs, React, Ruby and Ruby on Rails, Redis, Microservices
 - React for frontend
 - Kubernetes for infra and microservices management.
 - Redis for cache and high performance pub/sub
+- RabbitMQ for message broker
 - Postgres for database.
