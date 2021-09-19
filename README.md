@@ -2,7 +2,7 @@ Hello, this is Yigit 🖖
 
 I’m a backend developer who’s always looking to learn and improve.
 
-With TypeScript I’m used to utilize and learn Golang, Ruby, Rail, Docker and Nodejs, and others like gRPC. When it comes to my personality, I am interested, open to learning new things about the tools and technology I use and willing to explore.
+I use Golang, Ruby on Rails, Docker and  Nodejs with TypeScript and eager to use & learn more deeply them and other technologies such as gRPC. By personality, I am curious and open to learn and make experiments with the tools and technologies that I am using.
 
 Playing with React and GraphQL helps me relax and unwind.
 
