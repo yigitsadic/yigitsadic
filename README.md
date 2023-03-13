@@ -7,13 +7,15 @@ I use Golang, Ruby on Rails, Docker and eager to use & learn more deeply them an
 
 ## Interests and Skills
 
-GraphQL, TypeScript, CSS, React, Ruby and Ruby on Rails, Redis, Microservices, Docker & Kubernetes, Golang
+- On backend side, Ruby (Ruby on Rails) 🐇, Redis, Postgresql and Golang ❤️
+- On frontend, CSS, React, TypeScript
 
 
 ## What do I want to learn & use in 2023 💭
 
+- Vim motions maybe switching to Vim completely?
 - Golang ❤️
-- CSS 💅🏾 and web accessibility 
+- CSS 💅🏾 and web accessibility deep dive
 - GRPC
-- Postgresql ❤️
+- Postgresql deep dive ❤️
 - More Kubernetes
