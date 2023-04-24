@@ -1,5 +1,4 @@
-<div><center>
-<img src="./cartman.png" />
+![image](cartman.png)
 
 Hello, this is Yigit 🖖
 
@@ -14,9 +13,8 @@ Hello, this is Yigit 🖖
 
 ## Interests and Skills
 
-On backend: Ruby (Ruby on Rails) 🐇, Redis, Postgresql and Golang ❤️
-
-On frontend: CSS, React, TypeScript
+- On backend: Ruby (Ruby on Rails) 🐇, Redis, Postgresql and Golang ❤️
+- On frontend: CSS, React, TypeScript
 
 
 
@@ -26,15 +24,8 @@ On frontend: CSS, React, TypeScript
 
 
 
-Golang ❤️
- 
-TypeScript
-
-Postgresql
-
-System design, architectures, clean code
-
-NeoVIM ❤️‍🔥
-
-
-</center></div>
+- Golang ❤️
+- TypeScript
+- Postgresql
+- System design, architectures, clean code
+- NeoVIM ❤️‍🔥
