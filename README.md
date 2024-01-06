@@ -19,7 +19,7 @@ Hello, this is Yigit 🖖
 
 
 
-## What do I want to learn & use & improve my skills in 2023 💭
+## What do I want to learn & use & improve my skills in 2024 💭
 
 
 
