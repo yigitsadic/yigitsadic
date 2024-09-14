@@ -8,4 +8,7 @@ Hello, this is Yigit 🖖
 
 ✨ By personality, I am curious and open to learn and make experiments with the tools and technologies that I am using.
 
+## Main areas of interest
+
+JavaScript, Elixir, Ruby and Golang
 
