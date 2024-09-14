@@ -9,23 +9,3 @@ Hello, this is Yigit 🖖
 ✨ By personality, I am curious and open to learn and make experiments with the tools and technologies that I am using.
 
 
-
-
-## Interests and Skills
-
-- On backend: Ruby (Ruby on Rails) 🐇, Redis, Postgresql and Golang ❤️
-- On frontend: CSS, React, TypeScript
-
-
-
-
-## What do I want to learn & use & improve my skills in 2024 💭
-
-
-
-
-- Golang ❤️
-- TypeScript
-- Postgresql
-- System design, architectures, clean code
-- NeoVIM ❤️‍🔥
