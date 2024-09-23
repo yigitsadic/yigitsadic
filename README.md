@@ -12,3 +12,5 @@ Hello, this is Yigit 🖖
 
 JavaScript, Elixir, Ruby and Golang
 
+and
+<3 Gleam
