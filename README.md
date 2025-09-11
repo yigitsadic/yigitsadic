@@ -10,7 +10,6 @@ Hello, this is Yigit 🖖
 
 ## Main areas of interest
 
-JavaScript, Elixir, Ruby and Golang
+JavaScript/TypeScript, Elixir, Ruby, and Golang
 
-and
-<3 Gleam
+and of course my dearest <3 Gleam
